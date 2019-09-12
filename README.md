@@ -11,11 +11,7 @@ python3 -m venv env
 source tutorial-env/bin/activate
 deactivate
 ```
-#### Create 
-``` 
-requirements.txt
-``` 
-file in the root of the project directory
+#### Create ``` requirements.txt ``` file in the root of the project directory
 
 #### Create dependenses list 
 ```
