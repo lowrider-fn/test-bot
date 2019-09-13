@@ -15,9 +15,9 @@ deactivate
 
 #### Create dependenses list 
 ```
-pip freeze
+pip3 freeze
 ```
 #### install dependenses
 ``` 
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
